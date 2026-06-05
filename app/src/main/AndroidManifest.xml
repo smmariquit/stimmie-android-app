@@ -1,0 +1,1 @@
+<manifest package="com.stimmie.app"><application><activity android:name=".MainActivity"></activity></application></manifest>
